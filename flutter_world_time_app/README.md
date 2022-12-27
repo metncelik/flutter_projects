@@ -1,3 +1,3 @@
-# flutter_world_time_app
+# Flutter World Time App
 
 A new Flutter project.
